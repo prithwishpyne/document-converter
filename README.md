@@ -28,6 +28,8 @@ Use the Clear button to clear the content once a file is uploaded.(Optional)
 For only generating the output text file, please run the file - extract_pdf.py (python ./extract_pdf).
 The output file will be created in output.txt as the input pdf is already present in the backend directory.
 
+LLD file is a word file called LLD.docx which is kept at the level of this README file.
+
 Running the process via API/Frontend will save any uploaded pdfs in a folder and also the converted text files in another separate folder.
 
 Already placed the text output for the given pdf in a folder called "text-output" in the backend directory.
